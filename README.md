@@ -14,6 +14,10 @@ Fitur
 10. Rest API JSON android
 11. DLL
 
+password zip : bismilahirohmanirohim
+
+email : agusnovian21@gmail.com
+
 
 AGUS NOVIAN, S.KOM
 
